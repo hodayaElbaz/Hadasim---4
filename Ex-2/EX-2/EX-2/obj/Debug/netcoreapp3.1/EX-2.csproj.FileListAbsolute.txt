@@ -1,0 +1,14 @@
+D:\מבחן אמן - הדסים 4\hodaya fadlon\Ex-2\EX-2\EX-2\bin\Debug\netcoreapp3.1\EX-2.exe
+D:\מבחן אמן - הדסים 4\hodaya fadlon\Ex-2\EX-2\EX-2\bin\Debug\netcoreapp3.1\EX-2.deps.json
+D:\מבחן אמן - הדסים 4\hodaya fadlon\Ex-2\EX-2\EX-2\bin\Debug\netcoreapp3.1\EX-2.runtimeconfig.json
+D:\מבחן אמן - הדסים 4\hodaya fadlon\Ex-2\EX-2\EX-2\bin\Debug\netcoreapp3.1\EX-2.runtimeconfig.dev.json
+D:\מבחן אמן - הדסים 4\hodaya fadlon\Ex-2\EX-2\EX-2\bin\Debug\netcoreapp3.1\EX-2.dll
+D:\מבחן אמן - הדסים 4\hodaya fadlon\Ex-2\EX-2\EX-2\bin\Debug\netcoreapp3.1\EX-2.pdb
+D:\מבחן אמן - הדסים 4\hodaya fadlon\Ex-2\EX-2\EX-2\obj\Debug\netcoreapp3.1\EX-2.csproj.AssemblyReference.cache
+D:\מבחן אמן - הדסים 4\hodaya fadlon\Ex-2\EX-2\EX-2\obj\Debug\netcoreapp3.1\EX-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\מבחן אמן - הדסים 4\hodaya fadlon\Ex-2\EX-2\EX-2\obj\Debug\netcoreapp3.1\EX-2.AssemblyInfoInputs.cache
+D:\מבחן אמן - הדסים 4\hodaya fadlon\Ex-2\EX-2\EX-2\obj\Debug\netcoreapp3.1\EX-2.AssemblyInfo.cs
+D:\מבחן אמן - הדסים 4\hodaya fadlon\Ex-2\EX-2\EX-2\obj\Debug\netcoreapp3.1\EX-2.csproj.CoreCompileInputs.cache
+D:\מבחן אמן - הדסים 4\hodaya fadlon\Ex-2\EX-2\EX-2\obj\Debug\netcoreapp3.1\EX-2.dll
+D:\מבחן אמן - הדסים 4\hodaya fadlon\Ex-2\EX-2\EX-2\obj\Debug\netcoreapp3.1\EX-2.pdb
+D:\מבחן אמן - הדסים 4\hodaya fadlon\Ex-2\EX-2\EX-2\obj\Debug\netcoreapp3.1\EX-2.genruntimeconfig.cache
