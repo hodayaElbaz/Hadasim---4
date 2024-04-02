@@ -32,9 +32,4 @@ I did 2 versions of the exercise:
 
 
 
-Exersize 2:
-Language: C#
-development enviroment: Visual Studio.
-I did 2 versions of the exercise:
-1. EX-2 - writing normal code without using functions, etc.
-2. EX-2.2 - Writing code in a clearer and more readable way, by using functions. (Methods)
+
